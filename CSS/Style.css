@@ -9,7 +9,7 @@ html, body {
   body {
     display: flex;
     flex-direction: column;
-    background-image: url(fundo.jpg); 
+    background-image: url(../IMG/fundo.jpg); 
     color: white; 
     align-items: center; 
   }
